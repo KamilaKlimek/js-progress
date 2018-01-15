@@ -14,3 +14,4 @@ I decided it was high I reached for a more comprehensive source that will give m
 
 Goal for this week: finish the "language" part of the book by the end of this week and resume FCC for one hour at some point to see if I'm ready to go back to it.
 
+PS. While going through ["Eloquent JS"](http://eloquentjavascript.net/) I will be including code solutions [here]. 
